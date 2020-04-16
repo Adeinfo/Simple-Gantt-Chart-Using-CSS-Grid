@@ -1,3 +1,10 @@
+header{
+    display: grid;
+    grid-template-columns: 1fr;
+    align-content: center;
+    text-align: center;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
 .container{
     max-width: 1200px;
     min-width: 650px;
